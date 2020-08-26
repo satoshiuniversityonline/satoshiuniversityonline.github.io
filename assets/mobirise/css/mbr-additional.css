@@ -879,7 +879,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #f2a900;
 }
 .cid-s4odHykhUZ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -959,7 +959,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s4odHykhUZ .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.1rem);
+    max-height: calc(98.5vh - 4.6rem);
   }
 }
 .cid-s4odHykhUZ .collapsed button.navbar-toggler {
@@ -1115,7 +1115,7 @@ section.lazy-placeholder:after {
 }
 .cid-s4odHykhUZ .nav-link:hover,
 .cid-s4odHykhUZ .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #f2a900 !important;
 }
 #custom-html-2 {
   /* Type valid CSS here */
@@ -1132,7 +1132,7 @@ section.lazy-placeholder:after {
 .cid-s8K1wF3bBM {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/giphy-17.gif");
+  background-image: url("../../../assets/images/giphy-8.gif");
 }
 .cid-s8K1wF3bBM .title {
   margin-bottom: 2rem;
