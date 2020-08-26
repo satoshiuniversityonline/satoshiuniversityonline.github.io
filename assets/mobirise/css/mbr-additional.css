@@ -1117,18 +1117,6 @@ section.lazy-placeholder:after {
 .cid-s4odHykhUZ .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s8swrNyee6 {
-  background-image: url("../../../assets/images/giphy-17.gif");
-}
-.cid-s8swrNyee6 H1 {
-  color: #333333;
-  text-align: left;
-}
-.cid-s8swrNyee6 .mbr-text,
-.cid-s8swrNyee6 .mbr-section-btn {
-  text-align: left;
-  color: #333333;
-}
 #custom-html-2 {
   /* Type valid CSS here */
 }
@@ -1142,15 +1130,16 @@ section.lazy-placeholder:after {
   color: #333333;
 }
 .cid-s8K1wF3bBM {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/giphy-17.gif");
 }
 .cid-s8K1wF3bBM .title {
   margin-bottom: 2rem;
 }
 .cid-s8K1wF3bBM .mbr-section-subtitle {
-  color: #767676;
+  color: #333333;
+  text-align: left;
 }
 .cid-s8K1wF3bBM a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1161,4 +1150,7 @@ section.lazy-placeholder:after {
 }
 .cid-s8K1wF3bBM textarea.form-control {
   min-height: 188px;
+}
+.cid-s8K1wF3bBM H2 {
+  text-align: left;
 }
